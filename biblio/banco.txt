@@ -1,0 +1,13 @@
+[
+    {
+        "id": "6880c8bded032",
+        "titulo": "Adulai",
+        "autor": "Oi",
+        "editora": "Nao",
+        "ano": "1909",
+        "descricao": "Arroz e feijao criado no Brasil",
+        "capa": "6880c8bdecfbb.jpg",
+        "arquivo": "6880c8bded019.pdf",
+        "data_cadastro": "2025-07-23 13:34:21"
+    }
+]
